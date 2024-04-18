@@ -7,8 +7,6 @@ its a windows exe file that scann websites for open ports or close ports like nm
 
 HOW TO USE PortRevealer:
 
-
-
 examples:
 
 portrevealer.exe google.com 1 80 
